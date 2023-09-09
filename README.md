@@ -53,7 +53,7 @@ git clone https://github.com/your-username/paper-kotlin-plugin-template.git
 You can build your plugin using Gradle:
 
 ```shell
-./gradlew build
+./gradlew shadowJar
 ```
 
 This command will compile your code, package it into a JAR file, and place it in the `build/libs/` directory.

@@ -1,0 +1,1 @@
+rootProject.name = "paper-kotlin-plugin-template"

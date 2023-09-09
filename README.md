@@ -10,6 +10,7 @@ This is a template repository for creating Minecraft plugins using Kotlin for th
     - [Using the template](#using-the-template)
     - [Building your plugin](#building-your-plugin)
     - [Running the server](#running-the-server)
+- [Sidenotes](#sidenotes)
 - [License](#license)
 
 ## Features

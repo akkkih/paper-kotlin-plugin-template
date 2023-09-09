@@ -10,7 +10,7 @@ This is a template repository for creating Minecraft plugins using Kotlin for th
     - [Using the template](#using-the-template)
     - [Building your plugin](#building-your-plugin)
     - [Running the server](#running-the-server)
-- [Sidenotes](#sidenotes)
+- [Side-notes](#side-notes)
 - [License](#license)
 
 ## Features
@@ -68,7 +68,7 @@ You can automatically create a Paper server using Gradle:
 
 You can modify the server version in the `build.gradle.kts` file.
 
-## Sidenotes
+## Side-notes
 
 - Remember to change the plugin's package and information on the `plugin.yml` file.
 - You can learn more about Lamp by [clicking here](https://github.com/Revxrsal/Lamp/wiki).

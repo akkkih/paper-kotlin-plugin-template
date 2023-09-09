@@ -40,9 +40,9 @@ To get started with this template, follow these steps:
 1. Click on the "Use this template" button at the top of this repository to create a new repository based on this template.
 2. Clone your new repository to your local machine using Git:
 
-   ```shell
-   git clone https://github.com/your-username/paper-kotlin-plugin-template.git
-   ```
+```shell
+git clone https://github.com/your-username/paper-kotlin-plugin-template.git
+```
 
 3. Open the project in your preferred Kotlin-compatible IDE (e.g., IntelliJ IDEA).
 4. Customize the project information in the `build.gradle.kts` file.
@@ -52,9 +52,9 @@ To get started with this template, follow these steps:
 
 You can build your plugin using Gradle:
 
-    ```shell
-    ./gradlew build
-    ```
+```shell
+./gradlew build
+```
 
 This command will compile your code, package it into a JAR file, and place it in the `build/libs/` directory.
 
@@ -62,9 +62,9 @@ This command will compile your code, package it into a JAR file, and place it in
 
 You can automatically create a Paper server using Gradle:
 
-    ```shell
-    ./gradlew runServer
-    ```
+```shell
+./gradlew runServer
+```
 
 You can modify the server version in the `build.gradle.kts` file.
 

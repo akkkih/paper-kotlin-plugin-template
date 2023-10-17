@@ -1,7 +1,7 @@
 plugins {
     kotlin("jvm") version "1.9.0"
     id("com.github.johnrengelman.shadow") version "8.1.1"
-    id("xyz.jpenilla.run-paper") version "2.1.0"
+    id("xyz.jpenilla.run-paper") version "2.2.0"
 }
 
 group = "com.example"
@@ -14,14 +14,14 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT")
-    implementation("com.github.Revxrsal.Lamp:common:3.1.5")
-    implementation("com.github.Revxrsal.Lamp:bukkit:3.1.5")
-    implementation("com.github.Revxrsal.Lamp:brigadier:3.1.5")
+    compileOnly("io.papermc.paper:paper-api:1.20.2-R0.1-SNAPSHOT")
+    implementation("com.github.Revxrsal.Lamp:common:3.1.7")
+    implementation("com.github.Revxrsal.Lamp:bukkit:3.1.7")
+    implementation("com.github.Revxrsal.Lamp:brigadier:3.1.7")
 }
 
 kotlin {
     jvmToolchain(17)
 }
 
-tasks.runServer { minecraftVersion("1.20.1") }
+tasks.runServer { minecraftVersion("1.20.2") }

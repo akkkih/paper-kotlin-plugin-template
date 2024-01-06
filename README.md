@@ -1,4 +1,4 @@
-# Paper Kotlin Plugin Template
+# Plugin Template
 
 This is a template repository for creating Minecraft plugins using Kotlin for the Paper server software. It provides a basic structure and essential setup to kickstart your plugin development.
 

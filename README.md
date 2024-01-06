@@ -1,4 +1,4 @@
-# Paper Kotlin Plugin Template
+# Plugin Template
 
 This is a template repository for creating Minecraft plugins using Kotlin for the Paper server software. It provides a basic structure and essential setup to kickstart your plugin development.
 
@@ -19,6 +19,7 @@ This is a template repository for creating Minecraft plugins using Kotlin for th
   - [shadowJar](https://github.com/johnrengelman/shadow): to shade your dependencies into the plugin.
   - [run-paper](https://github.com/jpenilla/run-task): to create a server with your compiled plugin and desired version.
   - [Lamp](https://github.com/Revxrsal/Lamp): a simple to use commands annotation framework with Brigadier built into it.
+  - [Twilight](https://github.com/flytegg/twilight): an API for developers creating plugins.
 - A basic plugin template with sample code to get you started.
 - Integration with Paper API for Minecraft plugin development.
 - A well-organized project structure to keep your code clean and maintainable.
@@ -41,7 +42,7 @@ To get started with this template, follow these steps:
 2. Clone your new repository to your local machine using Git:
 
 ```shell
-git clone https://github.com/your-username/paper-kotlin-plugin-template.git
+git clone https://github.com/your-username/plugin-template.git
 ```
 
 3. Open the project in your preferred Kotlin-compatible IDE (e.g., IntelliJ IDEA).

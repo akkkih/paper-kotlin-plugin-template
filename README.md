@@ -19,6 +19,7 @@ This is a template repository for creating Minecraft plugins using Kotlin for th
   - [shadowJar](https://github.com/johnrengelman/shadow): to shade your dependencies into the plugin.
   - [run-paper](https://github.com/jpenilla/run-task): to create a server with your compiled plugin and desired version.
   - [Lamp](https://github.com/Revxrsal/Lamp): a simple to use commands annotation framework with Brigadier built into it.
+  - [Twilight](https://github.com/flytegg/twilight): an API for developers creating plugins.
 - A basic plugin template with sample code to get you started.
 - Integration with Paper API for Minecraft plugin development.
 - A well-organized project structure to keep your code clean and maintainable.

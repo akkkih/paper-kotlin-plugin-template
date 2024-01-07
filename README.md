@@ -2,6 +2,9 @@
 
 This is a template repository for creating Minecraft plugins using Kotlin for the Paper server software. It provides a basic structure and essential setup to kickstart your plugin development.
 
+> [!NOTE]
+> Looking for a multi-module Gradle template? Click [here](https://github.com/akkkih/multi-module-plugin-template) to check it out!
+
 ## Table of Contents
 
 - [Features](#features)
